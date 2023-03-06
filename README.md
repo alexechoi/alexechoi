@@ -4,7 +4,6 @@
 - 📫 E-mail **alexchoidev@gmail.com**
 - 🔭 I’m currently working on RIIVAL
 - 📕 Currently learning Data Science & Data Engineering
-- 📫 How to reach me: **alexchoidev@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
 
