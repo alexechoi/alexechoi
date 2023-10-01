@@ -2,10 +2,11 @@
 ### I'm Alex!
 
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on RIIVAL
+- 🔭 I’m currently working on <a href="https://strollr.xyz">Strollr</a>
 - 📕 Currently learning Data Science & Data Engineering
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
+- 💻 Something you should check out: <a href="https://github.com/alexechoi/person-bingo">Person Bingo!</a>
 
 
 <h3 align="left">Connect with me:</h3>
