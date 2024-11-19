@@ -1,13 +1,21 @@
 ### Hi there 👋
 ### I'm Alex!
 
+I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Backend and Mobile App Development!
+
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on <a href="https://strollr.xyz">Strollr</a>
-- 📕 Currently learning Data Science & Data Engineering
+- 🔭 I’m currently working on AI Debate Coaching
+- 📕 Currently learning Supabase
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
-- 💻 Something you should check out: <a href="https://github.com/alexechoi/person-bingo">Person Bingo!</a>
+- 💻 Something you should check out: <a href="https://strollr.xyz">Strollr!</a>
 
+### Some of my public repos you should check out!
+
+- Expo React Native Weather App: <a href="https://github.com/alexechoi/expo-weather-app">here</a>
+- Chrome extension for disabling Javascript: <a href="https://github.com/alexechoi/disable-javascript">here</a>
+- Person Bingo: <a href="https://github.com/alexechoi/person-bingo">here</a>
+- Kotlin Boarding Pass Scanner: <a href="https://github.com/alexechoi/boarding-pass-scanner">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
