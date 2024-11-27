@@ -12,6 +12,7 @@ I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Ba
 
 ### Some of my public repos you should check out!
 
+- Scandinavian Airlines (SAS) Flight Price Python Package: <a href="https://github.com/alexechoi/sas-prices-py">here</a>
 - Expo React Native Weather App: <a href="https://github.com/alexechoi/expo-weather-app">here</a>
 - Chrome extension for disabling Javascript: <a href="https://github.com/alexechoi/disable-javascript">here</a>
 - Person Bingo: <a href="https://github.com/alexechoi/person-bingo">here</a>
