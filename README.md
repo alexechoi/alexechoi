@@ -26,3 +26,4 @@ I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Ba
 <a href="https://www.twitter.com/alexchhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexchhk" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=alexechoi)
