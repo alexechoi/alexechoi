@@ -4,11 +4,11 @@
 I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Backend and Mobile App Development!
 
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on AI Debate Coaching
-- 📕 Currently learning Supabase
+- 🔭 I’m currently working on GP Caller
+- 📕 Currently learning Langgraph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
-- 💻 Something you should check out: <a href="https://strollr.xyz">Strollr</a>, <a href="https://checkthena.me">Check the name</a>, <a href="https://meetinthemiddle.app">Meet in the Middle</a>
+- 💻 Something you should check out: <a href="[https://biblecoach.app](https://www.biblecoach.app/)">Bible Coach AI</a>, <a href="https://checkthena.me">Check the name</a>, <a href="https://meetinthemiddle.app">Meet in the Middle</a>
 
 ### Some of my public repos you should check out!
 
