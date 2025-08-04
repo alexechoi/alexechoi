@@ -12,7 +12,7 @@ I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Ba
 
 ### Some of my public repos you should check out!
 
-- Whatsapp Bridge Production (a Whatsapp API designed to be deployed on a severless environment): <a href="https://github.com/alexechoi/whatsapp-bridge">here</a>
+- Whatsapp Bridge Production (a Whatsapp API designed to be deployed on a serverless environment): <a href="https://github.com/alexechoi/whatsapp-bridge">here</a>
 - Scandinavian Airlines (SAS) Flight Price Python Package: <a href="https://github.com/alexechoi/sas-prices-py">here</a>
 - Expo React Native Weather App: <a href="https://github.com/alexechoi/expo-weather-app">here</a>
 - Check the Name: <a href="https://github.com/alexechoi/check-the-name">here</a>
