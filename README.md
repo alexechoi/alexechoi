@@ -12,10 +12,10 @@ I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Ba
 
 ### Some of my public repos you should check out!
 
+- Whatsapp Bridge Production (a Whatsapp API designed to be deployed on a severless environment): <a href="https://github.com/alexechoi/whatsapp-bridge">here</a>
 - Scandinavian Airlines (SAS) Flight Price Python Package: <a href="https://github.com/alexechoi/sas-prices-py">here</a>
 - Expo React Native Weather App: <a href="https://github.com/alexechoi/expo-weather-app">here</a>
 - Check the Name: <a href="https://github.com/alexechoi/check-the-name">here</a>
-- Chrome extension for disabling Javascript: <a href="https://github.com/alexechoi/disable-javascript">here</a>
 - Person Bingo: <a href="https://github.com/alexechoi/person-bingo">here</a>
 - Kotlin Boarding Pass Scanner: <a href="https://github.com/alexechoi/boarding-pass-scanner">here</a>
 
