@@ -8,12 +8,12 @@ I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Ba
 - 📕 Currently learning Langgraph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
-- 💻 Something you should check out: <a href="[https://biblecoach.app](https://www.biblecoach.app/)">Bible Coach AI</a>, <a href="https://checkthena.me">Check the name</a>, <a href="https://meetinthemiddle.app">Meet in the Middle</a>
+- 💻 Something you should check out: <a href="https://www.biblecoach.app/">Bible Coach AI</a>, <a href="https://checkthena.me">Check the name</a>, <a href="https://meetinthemiddle.app">Meet in the Middle</a>
 
 ### Hackathon Wins:
-- 🥇 <a href="[https://github.com/Prosusware/yay-travel-agent](https://github.com/Prosusware/yay-travel-agent)">Yay Travel</a> Raise Summit Hack Paris 2025 and <a href="[https://github.com/alexechoi/aegis](https://github.com/alexechoi/aegis)">Aegis</a> Junction Hack Helsinki 2025
-- 🥈 <a href="[https://github.com/mousberg/reef](https://github.com/mousberg/reef)">The Reef</a> - Internet of Agents Hack New York 2025
-- 🥉 <a href="[https://github.com/alexechoi/power-of-europe-hack](https://github.com/alexechoi/power-of-europe-hack)">sAIpiens</a> - Power of Europe Hack Amsterdam 2025
+- 🥇 <a href="https://github.com/Prosusware/yay-travel-agent">Yay Travel</a> Raise Summit Hack Paris 2025 and <a href="https://github.com/alexechoi/aegis">Aegis</a> Junction Hack Helsinki 2025
+- 🥈 <a href="https://github.com/mousberg/reef">The Reef</a> - Internet of Agents Hack New York 2025
+- 🥉 <a href="https://github.com/alexechoi/power-of-europe-hack">sAIpiens</a> - Power of Europe Hack Amsterdam 2025
 
 ### Some of my public repos you should check out!
 
