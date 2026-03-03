@@ -4,7 +4,7 @@
 I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Backend and Mobile App Development!
 
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on GP Caller
+- 🔭 I’m currently working on Claw for All
 - 📕 Currently learning Langgraph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
