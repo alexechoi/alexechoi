@@ -4,7 +4,7 @@
 I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Backend and Mobile App Development!
 
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on Claw for All
+- 🔭 I’m currently working on <a href="https://clawforall.app/">Claw for All</a>
 - 📕 Currently learning Langgraph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
