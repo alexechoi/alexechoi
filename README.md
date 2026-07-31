@@ -1,16 +1,18 @@
 ### Hi there 👋
+
 ### I'm Alex from London 🇬🇧!
 
 I'm a jack of all trades and you can regularly find me doing AI/ML, Frontend, Backend and Mobile App Development!
 
 - 📫 E-mail **alexchoidev@gmail.com**
-- 🔭 I’m currently working on <a href="https://clawforall.app/">Claw for All</a>
+- 🔭 I’m currently working on <a href="https://getconcord.ai">Concord AI</a>
 - 📕 Currently learning Langgraph
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in palmistry!
 - 💻 Something you should check out: <a href="https://www.biblecoach.app/">Bible Coach AI</a>, <a href="https://checkthena.me">Check the name</a>, <a href="https://meetinthemiddle.app">Meet in the Middle</a>
 
 ### Hackathon Wins:
+
 - 🥇 <a href="https://github.com/Prosusware/yay-travel-agent">Yay Travel</a> Raise Summit Hack Paris 2025 and <a href="https://github.com/alexechoi/aegis">Aegis</a> Junction Hack Helsinki 2025
 - 🥈 <a href="https://github.com/mousberg/reef">The Reef</a> - Internet of Agents Hack New York 2025
 - 🥉 <a href="https://github.com/alexechoi/power-of-europe-hack">sAIpiens</a> - Power of Europe Hack Amsterdam 2025
